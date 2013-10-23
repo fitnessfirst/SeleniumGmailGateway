@@ -1,0 +1,14 @@
+﻿@model System.Net.Mail.MailMessage
+
+@{
+    ViewBag.Title = Model.Subject;
+}
+
+
+
+<table>
+@foreach (var header in Model.Headers.AllKeys)
+{
+    <tr><td>@header</td><td>@Model.Headers[header]</td></tr>
+}
+</table>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>S22.Imap</id>
+    <version>3.2.4813.36815</version>
+    <title>S22.Imap Imap Library Component</title>
+    <authors>smiley22</authors>
+    <owners>smiley22</owners>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/smiley22/S22.Imap</projectUrl>
+    <iconUrl>http://smiley22.github.com/Icons/Envelope.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Features of S22.Imap
+
+ - Supports IMAP IDLE notifications
+ - Supports IMAP over SSL
+ - API designed to be very easy to use
+ - Allows selectively fetching parts of mail messages
+ - Inherently thread-safe
+ - Well documented with lots of example code
+ - Free to use in commercial and personal projects (MIT License)
+
+Please visit the website for example usage and detailed documentation.</description>
+    <summary>S22.Imap is an easy-to-use and well-documented .NET assembly for communicating with and receiving electronic mail from an Internet Message Access Protocol (IMAP) server.</summary>
+    <releaseNotes />
+    <copyright>© 2012-2013 Torben Könke</copyright>
+    <language />
+    <tags>Imap C# Library Component Idle Mail Email</tags>
+  </metadata>
+</package>
